@@ -1,3 +1,3 @@
 # vanillajs
 
-course by Chris Ferda
+course by Chris Ferd
