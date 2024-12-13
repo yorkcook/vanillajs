@@ -2,4 +2,4 @@
 
 course by chris ferd
 
-completed 
+completed: 
