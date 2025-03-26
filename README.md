@@ -1,3 +1,3 @@
 # vanillajs
 
-projects in vanilla js by chris f
+projects in vanilla js by chris fer
