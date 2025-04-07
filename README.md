@@ -1,6 +1,6 @@
 # vanillaj
 
 
-course by
+course by chris f
 
 started 
